@@ -44,7 +44,7 @@ This is a funny AI chatbot that reads WhatsApp-style copied chats and automatica
    ```bash
    import google.generativeai as genai
    genai.configure(api_key="YOUR_API_KEY")
-
+   ```
 🧠 Tech Used
 Python
 Google Gemini API (google-generativeai)
@@ -53,4 +53,12 @@ Optional: pyperclip for clipboard access
 📝 Example
     Input (copied chat):
   ```bash
-        pip install -r requirements. 
+ pip install -r requirements. 
+```
+Output (roast reply):
+```bash
+   "Bro tere hello me bhi attitude hai, tu apne ghar me bhi entry maar ke hello bolta hoga na jaise reality show me aaya ho!"
+```
+🙏 Disclaimer
+  - Made purely for fun and entertainment
+  - Don't use it to seriously offend or hurt others
